@@ -7,3 +7,5 @@ Paper를 리뷰하고 이론을 공부 - Paper 이름 (업로드 날짜)
 - **Transformer** Attention Is All You Need (2021.06)
 - **VGG** Very Deep Convolutional Networks For Large-Scale Image Recognition (2021.04)
 - **RNN - Automata** (2020.05)
+
+## Paper의 모든 저작권은 저자에게 있습니다.
